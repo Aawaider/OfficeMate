@@ -1,9 +1,9 @@
 # OfficeMate
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-GNU-green.svg)
+![License](https://img.shields.io/badge/License-麻省理工学院许可证-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-Alpha2-orange.svg)
+![Version](https://img.shields.io/badge/Version-Alpha1-orange.svg)
 
 ## 📋 产品概述
 
